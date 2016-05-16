@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Classical</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Demo version only.</string>
+</resources>
